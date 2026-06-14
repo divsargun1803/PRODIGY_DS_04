@@ -101,5 +101,5 @@ jupyter notebook PRODIGY_DS_04.ipynb
 ---
 
 ## Author
-**Sargun (Divsargun Kaur)** — B.Tech, NIT Jalandhar (Batch 2029)  
+**Divsargun Kaur** — B.Tech, NIT Jalandhar (Batch 2029)  
 [LinkedIn](https://linkedin.com/in/divsargunkaur) · [GitHub](https://github.com/divsargun1803)
