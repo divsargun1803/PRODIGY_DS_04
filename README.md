@@ -1,4 +1,4 @@
-# 🐦 PRODIGY_DS_04 — Twitter Sentiment Analysis
+# PRODIGY_DS_04 — Twitter Sentiment Analysis
 
 > **Prodigy InfoTech Data Science Internship — Task 4**
 
@@ -100,10 +100,6 @@ jupyter notebook PRODIGY_DS_04.ipynb
 
 ---
 
-## 🏢 About the Internship
-
-This project was completed as part of the **Data Science Internship at [Prodigy InfoTech](https://prodigyinfotech.dev/)**.
-
----
-
-*Made with ❤️ during the Prodigy InfoTech Data Science Internship*
+## Author
+**Sargun (Divsargun Kaur)** — B.Tech, NIT Jalandhar (Batch 2029)  
+[LinkedIn](https://linkedin.com/in/divsargunkaur) · [GitHub](https://github.com/divsargun1803)
