@@ -6,7 +6,7 @@ Analyze and visualize sentiment patterns in social media data to understand publ
 
 ---
 
-## 📌 Objective
+## Objective
 
 Perform end-to-end sentiment analysis on Twitter data to:
 - Understand the distribution of sentiments (Positive, Negative, Neutral, Irrelevant)
@@ -16,7 +16,7 @@ Perform end-to-end sentiment analysis on Twitter data to:
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 **Source:** [Prodigy InfoTech GitHub](https://github.com/Prodigy-InfoTech/data-science-datasets/tree/main/Task%204)
 
@@ -29,7 +29,7 @@ Perform end-to-end sentiment analysis on Twitter data to:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Tools |
 |---|---|
@@ -41,7 +41,7 @@ Perform end-to-end sentiment analysis on Twitter data to:
 
 ---
 
-## 📊 Analysis Highlights
+## Analysis Highlights
 
 ### EDA & Visualizations
 - **Sentiment Distribution** — Bar chart & pie chart of all 4 sentiment classes
@@ -61,7 +61,7 @@ Perform end-to-end sentiment analysis on Twitter data to:
 
 ---
 
-## 🔑 Key Findings
+## Key Findings
 
 1. **Negative tweets dominate** (~30% of all tweets) — users are more vocal about complaints
 2. **Positive tweets** are the second most common (~28%), showing significant brand appreciation
@@ -72,7 +72,7 @@ Perform end-to-end sentiment analysis on Twitter data to:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 PRODIGY_DS_04/
@@ -84,7 +84,7 @@ PRODIGY_DS_04/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 # 1. Clone the repository
